@@ -1,1 +1,1 @@
-0-run: A shell script to run a python script
+This is an introduction to python programming
